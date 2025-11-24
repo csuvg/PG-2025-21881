@@ -1,4 +1,4 @@
-# EmoTune: Sistema de Generación Automática de Música con Control Emocional y Tonal
+# Control multiparamétrico en generación automática de música: Sistema de Generación Automática de Música con Control Emocional y Tonal (EmoTune)
 
 ## Descripción
 
@@ -113,4 +113,4 @@ Samuel Chamalé - 21881
 
 ## Licencia
 
-MIT License - Ver archivo LICENSE para más detalles
+MIT License - Ver archivo [LICENSE](LICENSE) para más detalles

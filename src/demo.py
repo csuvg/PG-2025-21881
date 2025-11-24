@@ -18,7 +18,7 @@ Configuraciones:
 """
 
 # Define la ruta base como variable
-BASE_PATH = r"S:\EDGE_DOWNLOADS\UVG\pg\PG-2025-21881\src"
+BASE_PATH = r"path/to/your/project"
 
 # Define los comandos usando la variable BASE_PATH
 commands = [
