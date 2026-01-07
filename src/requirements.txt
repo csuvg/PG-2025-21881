@@ -1,0 +1,10 @@
+scikit-learn
+seaborn
+numpy
+miditoolkit
+pandas
+ipdb
+tqdm
+matplotlib
+scipy
+tabulate
